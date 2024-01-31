@@ -1,0 +1,17 @@
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/bin/Debug/net8.0/RestAPI
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/bin/Debug/net8.0/RestAPI.deps.json
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/bin/Debug/net8.0/RestAPI.runtimeconfig.json
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/bin/Debug/net8.0/RestAPI.dll
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/bin/Debug/net8.0/RestAPI.pdb
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/bin/Debug/net8.0/RestSharp.dll
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/obj/Debug/net8.0/RestAPI.csproj.AssemblyReference.cache
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/obj/Debug/net8.0/RestAPI.GeneratedMSBuildEditorConfig.editorconfig
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/obj/Debug/net8.0/RestAPI.AssemblyInfoInputs.cache
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/obj/Debug/net8.0/RestAPI.AssemblyInfo.cs
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/obj/Debug/net8.0/RestAPI.csproj.CoreCompileInputs.cache
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/obj/Debug/net8.0/RestAPI.csproj.CopyComplete
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/obj/Debug/net8.0/RestAPI.dll
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/obj/Debug/net8.0/refint/RestAPI.dll
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/obj/Debug/net8.0/RestAPI.pdb
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/obj/Debug/net8.0/RestAPI.genruntimeconfig.cache
+/home/santiagol/Desktop/projects/c#Drills/RestAPI/obj/Debug/net8.0/ref/RestAPI.dll
